@@ -5,7 +5,8 @@ from bpy.types import Operator, Panel
 from datetime import datetime
 
 
-API_URL = "http://localhost:8000/save_scene/"
+API_URL = "http://78.24.221.79:8000/save_scene/"
+
 
 # ------------------------------------------------------------------------
 #    Operators
